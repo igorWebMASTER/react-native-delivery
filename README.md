@@ -1,2 +1,2 @@
-# react-native-delivery
+# React Native Delivery App
 GoRestaurant Mobile
